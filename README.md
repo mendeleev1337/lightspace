@@ -14,6 +14,12 @@
 
 ## Getting Started
 
+!! WARNING !!
+Go to the releases to use stable versions!
+If you want to use or test new functions, use main.lua, but:
+  - Use alternative accounts, don't use it on main accounts, because new 
+    functions can be detected!
+
 at least you need krnl to use this script.
 
 ## Usage
