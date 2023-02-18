@@ -16,8 +16,8 @@
 
 !! WARNING !!
 
-Go to the releases to use stable versions!
-If you want to use or test new functions, use main.lua, but:
+Use stable version - stable.lua!
+If you want to use or test new functions, use beta.lua, but:
   - Use alternative accounts, don't use it on main accounts, because new 
     functions can be detected!
   - To test new functions set your graphic at lesat 3-4. Using a low level of graphics, there may be bugs and incorrect work of the functions.
