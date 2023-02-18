@@ -1,1 +1,2 @@
-local a=1;local function a(a,b,c)local b=a*(b+c)return(b*a)/c end;print(a(0,0,0))
+-- here is will be code!
+print'niggeroverloaded'
