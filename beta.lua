@@ -1,7 +1,6 @@
 -- read THE FUCKING README.md PLEASE
 -- also shitcode, recoding rn
 
-
 local colorint = game.Lighting
 local TintRed,TintGreen,TintBlue = 255,255,255;local Saturation,Brightness,Contrast = 0,0,0
 
